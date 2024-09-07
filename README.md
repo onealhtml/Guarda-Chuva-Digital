@@ -1,7 +1,6 @@
 # Guarda-Chuva Digital 🌧️☂️
 
-Protegendo o Rio Grande do Sul contra enchentes! 🏠�boat
-
+Protegendo o Rio Grande do Sul contra enchentes! 🏠🛶
 ## Sobre o Projeto 📊
 
 Guarda-Chuva Digital é uma plataforma web que conecta cidadãos, equipes de resgate e autoridades durante situações de crise causadas por enchentes no Rio Grande do Sul. Utilizamos dados em tempo real para fornecer informações críticas e coordenar esforços de resposta.
